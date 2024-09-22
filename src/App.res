@@ -73,6 +73,7 @@ let make = () => {
           })->React.array}
         </Stack>
       </div>
+      <View user={name: "John", age: 20} />
     </div>
   </div>
 }
